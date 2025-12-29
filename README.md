@@ -40,7 +40,7 @@ automation using n8n.
   Layer        Technology
   ------------ -------------------------
   UI           PySide6 (Qt for Python)
-  API          FastAPI
+  Framework    FastAPI
   Database     PostgreSQL
   ORM          SQLAlchemy
   Auth         JWT + OAuth2
@@ -83,15 +83,3 @@ Import `automations/n8n-flows.json` into your n8n instance to enable:
 -   Daily stock summary reports
 
 ------------------------------------------------------------------------
-
-## Roadmap
-
--   Mobile companion app
--   AI demand forecasting
--   ERP integrations
-
-------------------------------------------------------------------------
-
-## License
-
-MIT License
